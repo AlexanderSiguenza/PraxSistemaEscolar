@@ -1,0 +1,64 @@
+<?PHP include("admin.php");
+$usuario=$_SESSION["usuario"];
+$contrasena=$_SESSION["contrasena"];
+$_SESSION = array();
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"   charset="UTF-8"/>
+<title>sistema de registro academico</title>
+<link href="../CSS/default2.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.Estilo1 {
+    font-size: 18px
+}
+.Estilo10 {
+    font-size: 14px
+}
+-->
+</style>
+</head>
+<body>
+<div id="header">
+    <div id="topmenu">
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div id="logo">
+        <h1><a href="#">PRAX</a></h1>
+        <h2><a href="#">sistema de registro academico y expediente</a></h2>
+  </div>
+</div>
+<div id="menu">
+    <ul>
+        <li class="first"></li>
+        <li><a href="FrmAlumno2.php" title="">Alumno</a></li>
+        <li><a href="FrmNiveEsco.html" title="">registro de asignación</a></li>
+        <li><a href="FrmRegisAcade.html" title="">registro académico</a></li>
+        <li><a href="FrmUsuarios.html" title="">usuarios </a></li>
+        <li><a href="FrmCierre.php" title="">cierre Escolar</a></li>
+        <li><a href="FrmReportes.php" title="">Reportes</a></li>
+        <li><a href="../Ayuda/Manual de usuario.htm" >ayuda</a></li>
+        <li><a href="login.html" title="">salir</a></li>
+    </ul>
+</div>
+<div id="content">
+  <div align="left"></div>  
+  <p><span class="Estilo10 Estilo10"><strong>ALUMNO </strong>cuenta con: Responsable, Matricula e Ingreso de Notas <br />
+      <strong>USUARIOS </strong>cuenta con: Administracion de Usuarios <br />
+      <strong>REGISTRO DE ASIGNACION </strong>cuenta  con: Nivel, Grados, Plan de Estudio, Secciones y Asignaturas <br />
+      <strong>REGISTRO ACADEMICO </strong>cuenta con: Trimestres, Actividades, Institución <br />
+      <strong>CIERRE ESCOLAR </strong>cuenta con: El cierre por cada grado <br />
+      <strong>REPORTES </strong>cuenta con: Reportes de notas, Listado de alumnos por sección, Listado de encargados<br />
+  <h1 align="right">Bienvenido a Prax<span class="Estilo1"><img src="../CSS/ico/Home-256(2).png" alt="" width="200" height="200" /></span></h1>
+  <h1 align="center">Sistema de Registro Academico y Expediente</h1>
+  </div>
+</body>
+</html>
+
+

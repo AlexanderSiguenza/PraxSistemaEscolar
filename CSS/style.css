@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form {
+	border:1px solid #00CCFF;
+	width:460px;
+	margin:auto;
+}
+#form legend{
+	font-weight:normal;
+	font-size:16px;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#form ol{
+    list-style:none;
+}
+#form ol li{
+	padding-bottom:3px;
+}
+#form ol li label{
+    width:120px;
+    float:left;
+    text-align:left;
+}
+#form input[type=text] {
+	border:1px solid #aacfe4;
+	font-size:14px;
+	width:300px;
+	padding:4px 4px;
+	
+}
+#form input.btn {
+	clear:both;
+	margin-left:30px;
+	width:80px;
+	height:30px;
+	text-align:center;
+	line-height:20px;
+	color:#FFFFFF;
+	font-size:14px;
+	font-weight:bold;
+	background-color:#000000
+}

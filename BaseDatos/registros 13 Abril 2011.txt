@@ -1,0 +1,382 @@
+
+INSERT INTO `responsablealumno` VALUES (1, 'Pedro Antonio', 'Portillo', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (2, 'Tatiana Leonor', 'Salazar', 'Romero', 'Femenino', '78945456-7', 'col.el bosque', 1, 1, '2448-9898', '2499-6378', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (3, 'Onil', 'Prieto', '', 'Masculino', '45646456-4', 'col. los gatos', 1, 1, '2444-4444', '', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (4, 'Soberno', 'Portillo', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (5, 'Manuel Gustavo', 'Sagastume', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (6, 'Antonio Gustavo', 'Cedros', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (7, 'Nira Aminda', 'Millar', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (8, 'Demo Alva', 'Pertecos', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (9, 'Vicente Fernandes', 'Pertecos', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+
+INSERT INTO `responsablealumno` VALUES (10, 'Ped Anto', 'Por', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (11, 'Tati Leon', 'Sala', 'Romero', 'Femenino', '78945456-7', 'col.el bosque', 1, 1, '2448-9898', '2499-6378', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (12, 'On', 'Prie', '', 'Masculino', '45646456-4', 'col. los gatos', 1, 1, '2444-4444', '', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (13, 'Sobe', 'Porti', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (14, 'Man Gust', 'Sagas', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (15, 'Anto Gus', 'Ced', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (16, 'Ni Ami', 'Mi', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (17, 'De Al', 'Pert', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (18, 'Vic Fer', 'Per', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+
+INSERT INTO `responsablealumno` VALUES (19, 'Solito Mango', 'Portillo', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (20, 'Leticia Menha', 'Salazar', 'Romero', 'Femenino', '78945456-7', 'col.el bosque', 1, 1, '2448-9898', '2499-6378', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (21, 'Erik', 'Gusta', '', 'Masculino', '45646456-4', 'col. los gatos', 1, 1, '2444-4444', '', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (22, 'Tomate', 'Pertico', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (23, 'Memo Arru', 'Dinasta', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (24, 'Ricaredo Metra', 'Dyter', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (25, 'Norweto', 'Villar', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (26, 'Omar Bicentino', 'Quijano', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (27, 'Carlos Atruteo', 'Campos', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+
+INSERT INTO `responsablealumno` VALUES (28, 'Celibato', 'Puntifio', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (29, 'Jessica Madan', 'Rio', 'Romero', 'Femenino', '78945456-7', 'col.el bosque', 1, 1, '2448-9898', '2499-6378', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (30, 'Osorto Cabla', 'Pertor', '', 'Masculino', '45646456-4', 'col. los gatos', 1, 1, '2444-4444', '', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (31, 'Cipudo Serpo', 'Languido', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (32, 'Anibla Mala', 'Suerte', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (33, 'Jacobbo Herta', 'Sertyu', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (34, 'Dertui Corto', 'Zavaleta', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Madre');
+
+INSERT INTO `responsablealumno` VALUES (35, 'Reter Morta', 'Pirtocu', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+INSERT INTO `responsablealumno` VALUES (36, 'Jossec Ale', 'Arubaba', '', 'Masculino', '89712154-8', 'col. el matazano', 1, 1, '2448-5698', '2446-8956', 'Padre');
+
+
+
+
+INSERT INTO `usuario` VALUES ('Claudia', 'claudia', 'Alumno');
+INSERT INTO `alumno` VALUES (1, 'Claudia Veronica', 'Rodriguez', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Claudia', 1);
+
+INSERT INTO `usuario` VALUES ('Sofia', 'sofia', 'Alumno');
+INSERT INTO `alumno` VALUES (2, 'Lilian Sofia', 'Duke', 'Rubio', '04/08/80',
+'col. metro', 1, 1, '2445-6899', 'Femenino', 'no', 'no', 'Activo', 'Sofia', 2);
+
+INSERT INTO `usuario` VALUES ('Nelson', 'nelson', 'Alumno');
+INSERT INTO `alumno` VALUES (3, 'Nelson Rolando', 'Castro', '', '14/05/1980',
+'col. los planes', 1, 1, '2448-6589', 'Masculino', 'no', 'no ', 'Activo', 'Nelson', 3);
+
+INSERT INTO `usuario` VALUES ('Dinora', 'dinora', 'Alumno');
+INSERT INTO `alumno` VALUES (4, 'Dinora Mala', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Dinora', 4);
+
+INSERT INTO `usuario` VALUES ('Regina', 'regina', 'Alumno');
+INSERT INTO `alumno` VALUES (5, 'Regina Soliva', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Regina', 5);
+
+INSERT INTO `usuario` VALUES ('Damaris', 'damaris', 'Alumno');
+INSERT INTO `alumno` VALUES (6, 'Damaris Fernanda', 'Salgado', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Damaris', 6);
+
+INSERT INTO `usuario` VALUES ('Xoxana', 'Xoxana', 'Alumno');
+INSERT INTO `alumno` VALUES (7, 'Xoxana Retre', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Xoxana', 7);
+
+INSERT INTO `usuario` VALUES ('Sandra', 'sandra', 'Alumno');
+INSERT INTO `alumno` VALUES (8, 'Sandra Murcia', 'Rodriguez', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Sandra', 8);
+
+INSERT INTO `usuario` VALUES ('Claud', 'Claud', 'Alumno');
+INSERT INTO `alumno` VALUES (9, 'Claud Veron', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Claud', 9);
+
+
+
+INSERT INTO `usuario` VALUES ('Sof', 'sof', 'Alumno');
+INSERT INTO `alumno` VALUES (10, 'Lili Sof', 'Duke', 'Rubio', '04/08/80',
+'col. metro', 1, 1, '2445-6899', 'Femenino', 'no', 'no', 'Activo', 'Sof', 10);
+
+INSERT INTO `usuario` VALUES ('Nel', 'nel', 'Alumno');
+INSERT INTO `alumno` VALUES (11, 'Nel Rol', 'Castro', '', '14/05/1980',
+ 'col. los planes', 1, 1, '2448-6589', 'Masculino', 'no', 'no ', 'Activo', 'Nel', 11);
+
+INSERT INTO `usuario` VALUES ('Dino', 'dino', 'Alumno');
+INSERT INTO `alumno` VALUES (12, 'Dino Ma', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Dino', 12);
+
+INSERT INTO `usuario` VALUES ('Regi', 'regi', 'Alumno');
+INSERT INTO `alumno` VALUES (13, 'Regi Soli', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Regi', 13);
+
+INSERT INTO `usuario` VALUES ('Dama', 'dama', 'Alumno');
+INSERT INTO `alumno` VALUES (14, 'Damar Ferna', 'Salgado', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Dama', 14);
+
+INSERT INTO `usuario` VALUES ('Xoxa', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (15, 'Xoxana Retre', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Xoxa', 15);
+
+INSERT INTO `usuario` VALUES ('Cla', 'cla', 'Alumno');
+INSERT INTO `alumno` VALUES (16, 'Cla Veron', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Cla', 16);
+
+INSERT INTO `usuario` VALUES ('So', 'sof', 'Alumno');
+INSERT INTO `alumno` VALUES (17, 'Li So', 'Duke', 'Rubio', '04/08/80',
+'col. metro', 1, 1, '2445-6899', 'Femenino', 'no', 'no', 'Activo', 'So', 17);
+
+INSERT INTO `usuario` VALUES ('Ne', 'nel', 'Alumno');
+INSERT INTO `alumno` VALUES (18, 'Ne Ro', 'Castro', '', '14/05/1980',
+ 'col. los planes', 1, 1, '2448-6589', 'Masculino', 'no', 'no ', 'Activo', 'Ne', 18);
+
+
+
+INSERT INTO `usuario` VALUES ('Di', 'dino', 'Alumno');
+INSERT INTO `alumno` VALUES (19, 'Di Ma', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Di', 19);
+
+INSERT INTO `usuario` VALUES ('Re', 'regi', 'Alumno');
+INSERT INTO `alumno` VALUES (20, 'Re So', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Re', 20);
+
+INSERT INTO `usuario` VALUES ('Da', 'dama', 'Alumno');
+INSERT INTO `alumno` VALUES (21, 'Da Fe', 'Salgado', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Da', 21);
+
+INSERT INTO `usuario` VALUES ('Xo', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (22, 'Xo Retre', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Xo', 22);
+
+INSERT INTO `usuario` VALUES ('C', 'cla', 'Alumno');
+INSERT INTO `alumno` VALUES (23, 'C Veron', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'C', 23);
+
+INSERT INTO `usuario` VALUES ('S', 'sof', 'Alumno');
+INSERT INTO `alumno` VALUES (24, 'L S', 'Duke', 'Rubio', '04/08/80',
+'col. metro', 1, 1, '2445-6899', 'Femenino', 'no', 'no', 'Activo', 'S', 24);
+
+INSERT INTO `usuario` VALUES ('N', 'nel', 'Alumno');
+INSERT INTO `alumno` VALUES (25, 'N R', 'Castro', '', '14/05/1980',
+ 'col. los planes', 1, 1, '2448-6589', 'Masculino', 'no', 'no ', 'Activo', 'N', 25);
+
+INSERT INTO `usuario` VALUES ('D', 'dino', 'Alumno');
+INSERT INTO `alumno` VALUES (26, 'D M', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'D', 26);
+
+INSERT INTO `usuario` VALUES ('R', 'regi', 'Alumno');
+INSERT INTO `alumno` VALUES (27, 'R S', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'R', 27);
+
+
+
+INSERT INTO `usuario` VALUES ('Dtr', 'dama', 'Alumno');
+INSERT INTO `alumno` VALUES (28, 'Dtr F', 'Salgado', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Dtr', 28);
+
+INSERT INTO `usuario` VALUES ('X', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (29, 'X R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'X', 29);
+
+INSERT INTO `usuario` VALUES ('Cdsjfkl', 'cla', 'Alumno');
+INSERT INTO `alumno` VALUES (30, 'Cdsjfkl Veron', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Cdsjfkl', 30);
+
+INSERT INTO `usuario` VALUES ('Sretretrt', 'sof', 'Alumno');
+INSERT INTO `alumno` VALUES (31, 'Sretretrt S', 'Duke', 'Rubio', '04/08/80',
+'col. metro', 1, 1, '2445-6899', 'Femenino', 'no', 'no', 'Activo', 'Sretretrt', 31);
+
+INSERT INTO `usuario` VALUES ('Nytrytr', 'nel', 'Alumno');
+INSERT INTO `alumno` VALUES (32, 'NNytrytr R', 'Castro', '', '14/05/1980',
+ 'col. los planes', 1, 1, '2448-6589', 'Masculino', 'no', 'no ', 'Activo', 'Nytrytr', 32);
+
+INSERT INTO `usuario` VALUES ('Djhkjhkj', 'dino', 'Alumno');
+INSERT INTO `alumno` VALUES (33, 'Djhkjhkj M', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Djhkjhkj', 33);
+
+INSERT INTO `usuario` VALUES ('Reqwee', 'regi', 'Alumno');
+INSERT INTO `alumno` VALUES (34, 'Reqwee S', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Reqwee', 34);
+
+INSERT INTO `usuario` VALUES ('Dwerwe', 'dama', 'Alumno');
+INSERT INTO `alumno` VALUES (35, 'Dwerwe F', 'Salgado', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Dwerwe', 35);
+
+INSERT INTO `usuario` VALUES ('Aiiopoi', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (36, 'Aiiopoi R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Aiiopoi', 36);
+
+
+
+INSERT INTO `usuario` VALUES ('Cioopopi', 'cla', 'Alumno');
+INSERT INTO `alumno` VALUES (37, 'Cioopopi Veron', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Cioopopi', 36);
+
+INSERT INTO `usuario` VALUES ('Sopiopi', 'sof', 'Alumno');
+INSERT INTO `alumno` VALUES (38, 'Sopiopi S', 'Duke', 'Rubio', '04/08/80',
+'col. metro', 1, 1, '2445-6899', 'Femenino', 'no', 'no', 'Activo', 'Sopiopi', 35);
+
+INSERT INTO `usuario` VALUES ('Noiopiop', 'nel', 'Alumno');
+INSERT INTO `alumno` VALUES (39, 'Noiopiop R', 'Castro', '', '14/05/1980',
+ 'col. los planes', 1, 1, '2448-6589', 'Masculino', 'no', 'no ', 'Activo', 'Noiopiop', 34);
+
+INSERT INTO `usuario` VALUES ('Dioipoi', 'dino', 'Alumno');
+INSERT INTO `alumno` VALUES (40, 'Dioipoi M', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Dioipoi', 33);
+
+INSERT INTO `usuario` VALUES ('Riopiop', 'regi', 'Alumno');
+INSERT INTO `alumno` VALUES (41, 'Riopiop S', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Riopiop', 32);
+
+INSERT INTO `usuario` VALUES ('Doiopop', 'dama', 'Alumno');
+INSERT INTO `alumno` VALUES (42, 'Doiopop F', 'Salgado', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Doiopop', 31);
+
+INSERT INTO `usuario` VALUES ('Xoipopi', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (43, 'Xoipopi R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Xoipopi', 30);
+
+INSERT INTO `usuario` VALUES ('Teto', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (44, 'Teto R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Teto', 29);
+
+INSERT INTO `usuario` VALUES ('Aytyut', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (45, 'Aytyut R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Aytyut', 28);
+
+
+
+INSERT INTO `usuario` VALUES ('Cuyttyu', 'cla', 'Alumno');
+INSERT INTO `alumno` VALUES (46, 'Cuyttyu Veron', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Cuyttyu', 27);
+
+INSERT INTO `usuario` VALUES ('Suyttyu', 'sof', 'Alumno');
+INSERT INTO `alumno` VALUES (47, 'Suyttyu S', 'Duke', 'Rubio', '04/08/80',
+'col. metro', 1, 1, '2445-6899', 'Femenino', 'no', 'no', 'Activo', 'Suyttyu', 26);
+
+INSERT INTO `usuario` VALUES ('Nyutuyt', 'nel', 'Alumno');
+INSERT INTO `alumno` VALUES (48, 'Nyutuyt R', 'Castro', '', '14/05/1980',
+ 'col. los planes', 1, 1, '2448-6589', 'Masculino', 'no', 'no ', 'Activo', 'Nyutuyt', 25);
+
+INSERT INTO `usuario` VALUES ('Dtyuuy', 'dino', 'Alumno');
+INSERT INTO `alumno` VALUES (49, 'Dtyuuy M', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Dtyuuy', 24);
+
+INSERT INTO `usuario` VALUES ('Rtyuuyt', 'regi', 'Alumno');
+INSERT INTO `alumno` VALUES (50, 'Rtyuuyt S', 'Salgado', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Rtyuuyt', 23);
+
+INSERT INTO `usuario` VALUES ('Drtyuyt', 'dama', 'Alumno');
+INSERT INTO `alumno` VALUES (51, 'Drtyuyt F', 'Salgado', '', '04/06/80',
+ 'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Drtyuyt', 22);
+
+INSERT INTO `usuario` VALUES ('Xtyuuyt', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (52, 'Xtyuuyt R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Xtyuuyt', 21);
+
+INSERT INTO `usuario` VALUES ('Ttyuuyt', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (53, 'Ttyuuyt R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Ttyuuyt', 20);
+
+INSERT INTO `usuario` VALUES ('Asdf', 'Xoxa', 'Alumno');
+INSERT INTO `alumno` VALUES (54, 'Asdf R', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Asdf', 19);
+
+INSERT INTO `usuario` VALUES ('Csdf', 'cla', 'Alumno');
+INSERT INTO `alumno` VALUES (55, 'Csdf Veron', 'Rodriguez', '', '04/06/80',
+'col los pinos', 1, 1, '2448-6477', 'Femenino', 'no', 'no', 'Activo', 'Csdf', 18);
+
+
+
+INSERT INTO `matricula` VALUES (1, 1, 1, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (2, 2, 2, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (3, 3, 3, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (4, 4, 4, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (5, 5, 5, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (6, 6, 6, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (7, 7, 7, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (8, 8, 8, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (9, 9, 9, '2011', 'Activo');
+
+INSERT INTO `matricula` VALUES (10, 10, 1, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (11, 11, 2, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (12, 12, 3, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (13, 13, 4, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (14, 14, 5, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (15, 15, 6, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (16, 16, 7, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (17, 17, 8, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (18, 18, 9, '2011', 'Activo');
+
+INSERT INTO `matricula` VALUES (19, 19, 1, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (20, 20, 2, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (21, 21, 3, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (22, 22, 4, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (23, 23, 5, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (24, 24, 6, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (25, 25, 7, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (26, 26, 8, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (27, 27, 9, '2011', 'Activo');
+                                                     I
+INSERT INTO `matricula` VALUES (28, 28, 1, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (29, 29, 2, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (30, 30, 3, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (31, 31, 4, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (32, 32, 5, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (33, 33, 6, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (34, 34, 7, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (35, 35, 8, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (36, 36, 9, '2011', 'Activo');
+
+INSERT INTO `matricula` VALUES (37, 37, 1, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (38, 38, 2, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (39, 39, 3, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (40, 40, 4, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (41, 41, 5, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (42, 42, 6, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (43, 43, 7, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (44, 44, 8, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (45, 45, 9, '2011', 'Activo');
+
+INSERT INTO `matricula` VALUES (46, 46, 1, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (47, 47, 2, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (48, 48, 3, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (49, 49, 4, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (50, 50, 5, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (51, 51, 6, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (52, 52, 7, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (53, 53, 8, '2011', 'Activo');
+INSERT INTO `matricula` VALUES (54, 54, 9, '2011', 'Activo');
+
+INSERT INTO `matricula` VALUES (55, 55, 1, '2011', 'Activo');
+
+
+
+
+
+
+
+
+
+

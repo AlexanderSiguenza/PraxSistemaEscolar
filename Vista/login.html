@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"   charset="UTF-8"/>
+<title>sistema de registro academico</title>
+<link href="../CSS/default2.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../Javascript/Mascara.js"></script>
+<style type="text/css">
+<!--
+.Estilo11 {color: #FFFFFF}
+-->
+</style>
+<script language="JavaScript">
+function abrirVentana() {
+open("index.html","miVentana", "toolbar=no,directories=no,menubar=no,status=no");
+}
+</script>
+</head>
+<body>
+<div id="header">
+    <div id="topmenu">
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div id="logo">
+        <h1><a href="#">PRAX</a></h1>
+        <h2><a href="#">sistema de registro academico y expediente</a></h2>
+  </div>
+</div>
+
+<div class="box">
+          <h2 class="posttitle"> Usuario</h2>
+          <h2 align="center" class="posttitle"><span class="Estilo11">.......</span><strong><em>CENTRO ESCOLAR REPUBLICA DE VENEZUELA</em></strong></h2>
+          <p align="center" class="Estilo23"><span class="posttitle"><img src="../CSS/images/escudoven.gif" alt="" width="168" height="188" /></span></p>
+          <table width="104" height="100" border="0" align="right">
+            <tr>              
+              <td><span class="Estilo23"><span class="posttitle"><span class="Estilo11"><strong><strong><img src="../CSS/ico/login1.jpg" alt="" width="81" height="82" /></strong></strong></span></span></span></td>
+            </tr>
+          </table>
+  <form  name="formu"  onsubmit="return Usuariologin(formu)" method="post" action="log.php">
+    <table width="50" border="0" align="center">                  
+            <tr>                
+                <th scope="col"> <strong>Usuario:</strong></th>
+                <th scope="col"><div align="center">
+                  <input type="text" name="usuario" id="textfield"  onkeypress="return validarTextUsuarios(event)" maxlength="20"/>
+                </div></th>
+          </tr>
+              <tr>             
+                <td><strong>Contraseña:</strong></td>
+                <td><div align="center">
+                  <input type= "password" name="password" id="textfield2" onkeypress="return validarTextUsuarios(event)" maxlength="20"/>
+                </div></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td><div align="center">
+                  <input type="submit" name="button" id="button" value="Aceptar"/>
+                </div></td>
+              </tr>
+    </table>
+  </form>
+          <p align="center" class="Estilo23"><span class="Estilo11">..........</span>Ingresar usuario y contraseña</p>
+</div>
+</body>
+</html>
